@@ -12,12 +12,15 @@ If you are a developer and want to keep every version of your code/project (whic
   
 ---
 
-Set global username and email for Git (Locally).
+## 1. **Getting Started with Git**
 
+### Set global username and email for Git (Locally).
+
+```sh
 git config --global user.name "<your username>"
 git config --global user.email "<your email>"
+```
 
-## 1. **Getting Started with Git**
 ### Initialize a Git repository
 
 ```sh
