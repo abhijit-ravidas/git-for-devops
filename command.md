@@ -175,9 +175,5 @@ git branch -d <branch_name>
 git push origin --delete <branch_name>
 ```
 
-Notes
-Replace placeholders (e.g., <branch_name>, <repository_url>, <file_name>) with your specific values.
-Use these commands cautiously to avoid unintentional loss of data.
-vbnet
-Copy code
+Happy Learning! :) 
 
